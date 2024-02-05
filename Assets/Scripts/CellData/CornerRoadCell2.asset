@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae8bbabe2ba43d14abde97bece27a594, type: 3}
+  m_Name: CornerRoadCell2
+  m_EditorClassIdentifier: 
+  cellName: CornerRoadCell2
+  cellPrefab: {fileID: 7933932899606186288, guid: ee94f281d8972a047a4b8fab8d015ca9,
+    type: 3}
+  postiveXEdge: 1
+  negativeXEdge: 0
+  postiveZEdge: 1
+  negativeZEdge: 0
