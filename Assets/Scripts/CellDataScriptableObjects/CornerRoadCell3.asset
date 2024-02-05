@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: CornerRoadCell3
   m_EditorClassIdentifier: 
   cellName: CornerRoadCell3
-  cellPrefab: {fileID: 0}
+  cellPrefab: {fileID: 8502899541673086831, guid: 4356b23351c2e124399d9db7605e962d,
+    type: 3}
   postiveXEdge: 1
   negativeXEdge: 0
   postiveZEdge: 0

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Cell", menuName = "ScriptableObjects/Cell", order = 1)]
-public class Cell : ScriptableObject
+public class CellData : ScriptableObject
 {
     public string cellName;
     public GameObject cellPrefab;
@@ -16,6 +16,7 @@ public class Cell : ScriptableObject
 
 public enum EdgeType: int
 {
+    None = -1,
     Grass = 0,
     Road = 1
 }
