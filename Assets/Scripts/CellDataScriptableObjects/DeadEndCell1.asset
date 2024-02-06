@@ -15,7 +15,8 @@ MonoBehaviour:
   cellName: DeadEndCell1
   cellPrefab: {fileID: 6888104641191401092, guid: 3162458819cc5584da50cade9020c42b,
     type: 3}
-  postiveXEdge: 0
-  negativeXEdge: 1
-  postiveZEdge: 0
-  negativeZEdge: 0
+  weight: 1
+  postiveXEdge: -1
+  negativeXEdge: -1
+  postiveZEdge: -1
+  negativeZEdge: -1

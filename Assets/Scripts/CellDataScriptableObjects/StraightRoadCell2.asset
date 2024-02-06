@@ -15,7 +15,8 @@ MonoBehaviour:
   cellName: StraightRoadCell2
   cellPrefab: {fileID: 6139946062863140437, guid: a183877e281f9e54dbacc3d865574e3c,
     type: 3}
-  postiveXEdge: 0
-  negativeXEdge: 0
-  postiveZEdge: 1
-  negativeZEdge: 1
+  weight: 1
+  postiveXEdge: -1
+  negativeXEdge: -1
+  postiveZEdge: -1
+  negativeZEdge: -1

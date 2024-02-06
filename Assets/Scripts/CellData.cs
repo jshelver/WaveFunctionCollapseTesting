@@ -7,6 +7,7 @@ public class CellData : ScriptableObject
 {
     public string cellName;
     public GameObject cellPrefab;
+    public float weight;
 
     public EdgeType postiveXEdge;
     public EdgeType negativeXEdge;

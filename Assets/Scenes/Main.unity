@@ -458,7 +458,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mapLength: 10
   mapWidth: 10
-  cellPrefabList:
+  cellDataList:
   - {fileID: 11400000, guid: a44747de327b73446952b2822b003a8d, type: 2}
   - {fileID: 11400000, guid: a5884f7d59c1c63489d199a577bdc791, type: 2}
   - {fileID: 11400000, guid: 69e58918fdff2ac4ab2033290a3e571c, type: 2}
