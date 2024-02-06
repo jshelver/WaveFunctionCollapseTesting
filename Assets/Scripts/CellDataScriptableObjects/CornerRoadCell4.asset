@@ -15,7 +15,7 @@ MonoBehaviour:
   cellName: CornerRoadCell4
   cellPrefab: {fileID: 1568048307801034850, guid: 79cad8c36ad69f14b9fc0f43e402ab04,
     type: 3}
-  weight: 1
+  weight: 7
   postiveXEdge: 0
   negativeXEdge: 1
   postiveZEdge: 0

@@ -15,7 +15,7 @@ MonoBehaviour:
   cellName: GrassCell
   cellPrefab: {fileID: 1562117338464939181, guid: d26c71f839acdc8478132a39a7fda24a,
     type: 3}
-  weight: 3
+  weight: 60
   postiveXEdge: 0
   negativeXEdge: 0
   postiveZEdge: 0

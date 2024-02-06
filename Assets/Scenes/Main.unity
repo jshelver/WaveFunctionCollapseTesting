@@ -456,8 +456,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5bca6349eb3625444a5aa746f36a2a0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapLength: 10
-  mapWidth: 10
+  mapLength: 20
+  mapWidth: 20
+  mapParent: {fileID: 0}
   cellDataList:
   - {fileID: 11400000, guid: a44747de327b73446952b2822b003a8d, type: 2}
   - {fileID: 11400000, guid: a5884f7d59c1c63489d199a577bdc791, type: 2}

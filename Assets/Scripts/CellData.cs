@@ -17,7 +17,6 @@ public class CellData : ScriptableObject
 
 public enum EdgeType: int
 {
-    None = -1,
     Grass = 0,
     Road = 1
 }
