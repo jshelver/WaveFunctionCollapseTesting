@@ -16,7 +16,7 @@ MonoBehaviour:
   cellPrefab: {fileID: 793758926432180508, guid: be303ee68c63f8749a0650137a0c663a,
     type: 3}
   weight: 1
-  postiveXEdge: -1
-  negativeXEdge: -1
-  postiveZEdge: -1
-  negativeZEdge: -1
+  postiveXEdge: 0
+  negativeXEdge: 0
+  postiveZEdge: 1
+  negativeZEdge: 0

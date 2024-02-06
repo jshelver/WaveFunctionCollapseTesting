@@ -17,7 +17,7 @@ public class MapCell
 
     public void GenerateCell()
     {
-        CellData cellData = PotentialCellDataTypes[Random.Range(0, PotentialCellDataTypes.Length)];
+        CellData cellData = PotentialCellDataTypes[Random.Range(0, PotentialCellDataTypes.Length - 1)];
         GameObject cell = GameObject.Instantiate(cellData.cellPrefab, Position, Quaternion.identity);
         cell.transform.parent = MapParent.transform;
     }
